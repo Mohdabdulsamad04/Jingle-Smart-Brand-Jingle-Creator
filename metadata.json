@@ -1,0 +1,6 @@
+{
+  "name": "JingleGen AI – Smart Brand Jingle Creator",
+  "description": "AI-powered brand advertising jingle generator featuring original lyrics, musical composition, audio synthesis, multi-track comparison, and brand-fit evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
